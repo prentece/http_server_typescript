@@ -27,7 +27,7 @@
         "dev": "tsx watch src/http/server.ts"
         ```
     ### Fastify
-    - Using Fastify [Getting Started](https://fastify.dev/docs/latest/Guides/Getting-Started/).
+    - Start here [Getting Started](https://fastify.dev/docs/latest/Guides/Getting-Started/).
         ```sh
         npm install fastify
         ```
