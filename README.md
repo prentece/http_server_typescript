@@ -1,4 +1,4 @@
-# Http Server with Typescript
+# HTTP Server with Typescript
 
 ## Starting point
 
