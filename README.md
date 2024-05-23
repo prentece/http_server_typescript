@@ -1,5 +1,7 @@
 # Http Server with Typescript
 
+Guide to Setting Up an HTTP Server Using TypeScript. Instructions for configuring and running a simple server, ensuring you can quickly start developing your applications.
+
 ## Starting point
 
 ### Prerequisites
